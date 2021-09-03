@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "target": "es5",
+    "lib": ["es2020"],
+    "module": "CommonJS",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "types": ["@types/node"]
+  },
+  "include": ["src"]
+}
