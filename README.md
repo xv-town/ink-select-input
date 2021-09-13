@@ -33,6 +33,6 @@ render(<Demo />);
 | attribute    | description                                      | type        | default |
 | ------------ | ------------------------------------------------ | ----------- | ------- |
 | options      | Items to display in a list.                      | ItemProps[] | []      |
-| initialIndex | Index of initially-selected item in items array. |             |         |
-| limit        | Number of items to display.                      |             |         |
-| onSelect     | Function to call when user selects an item.      |             |         |
+| initialIndex | Index of initially-selected item in items array. | number      | 0       |
+| limit        | Number of items to display.                      | number      | 8       |
+| onSelect     | Function to call when user selects an item.      | function    | -       |
