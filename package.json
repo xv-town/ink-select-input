@@ -1,6 +1,6 @@
 {
   "name": "@xv-town/ink-input-select",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Select input component for Ink",
   "keywords": [
     "ink",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "main": "./build/index.js",
   "files": [
-    "./build"
+    "build"
   ],
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
